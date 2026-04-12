@@ -1,0 +1,12 @@
+{
+  "export_job_id": "82fd9fcc-e05f-410c-920c-f6803675bf93",
+  "id_short": 401572,
+  "published_at": "2026-04-12T07:26:27Z",
+  "repo_name": "all-restaurants-in-santa-rosa-california-us-sample-401572",
+  "sample_asset_name": "beamstation_401572_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/401572/beamstation_401572_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "91eccff6a8e811be228ff0c1da239d547c880c7fd944ed5475b63bfac76919c2",
+  "sample_size_bytes": 114593,
+  "total_records": 321
+}
