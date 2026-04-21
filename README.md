@@ -1,6 +1,6 @@
 # All Restaurants in Santa Rosa, California, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `401572` |
 | Location | Santa Rosa |
 | Category | Restaurants |
-| Full dataset size | 369 records |
-| Free sample size | 36 records (9.76%) |
-| Last export | 2026-04-14T13:15:27.373912+00:00 |
+| Full dataset size | 314 records |
+| Free sample size | 31 records (9.87%) |
+| Last export | 2026-04-21T14:10:16.261889+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-rosa-california-us-sample-401572/releases/download/sample-latest/beamstation_401572_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
